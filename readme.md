@@ -7,3 +7,6 @@ Git Log nos permite ver los ultimos cambios.
 Git checkout . nos permite volver los cambios al último commit.
 Git Push envía los cambios guardados al repositorio remoto.
 No se guardaran los directorios vacios ya que git no los reconoce (las carpetas vacias) podemos crear un archivo de nombre .gitkeep que es un archivo seguro mientras creamos el contenido real para que git reconozca la carpeta.
+Git branch apunta a la rama donde estamos posicionados.
+
+Github es una implementación de Git pero en la nube.
